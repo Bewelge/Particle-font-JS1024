@@ -1,6 +1,7 @@
 
 # Particle font
 Entry for the 2021 [JS1024](https://js1024.fun) contest.
+
 "Create a javascript/shader program that has 1024 bytes or less and make it do something cool."
 
 ![sampleScreenshot](screenshot.png)
