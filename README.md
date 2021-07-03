@@ -5,7 +5,7 @@ Entry for the 2021 [JS1024](https://js1024.fun) contest.
 "Create a javascript/shader program that has 1024 bytes or less and make it do something cool."
 
 
-# [Demo](https://bewelge.github.io/Particle-font-JS1024/)
+## [Demo](https://bewelge.github.io/Particle-font-JS1024/)
 
 ![sampleScreenshot](screenshot.png)
 
